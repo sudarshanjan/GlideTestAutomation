@@ -1,0 +1,4 @@
+2021-04-30 12:32:13,099  INFO [main] ExtentReportListener:85 - The browser value is : Chrome
+2021-04-30 12:33:13,659  INFO [main] HomePage:158 - Browser Terminated
+2021-04-30 12:33:13,661  INFO [main] HomePage:159 - -----------------------------------------------
+2021-04-30 12:33:13,663  INFO [main] HomePage:161 - Closing

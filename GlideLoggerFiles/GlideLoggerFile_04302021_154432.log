@@ -1,0 +1,5 @@
+2021-04-30 15:44:35,746  INFO [main] ExtentReportListener:85 - The browser value is : Chrome
+2021-04-30 15:46:13,600  INFO [main] HomePage:52 - Glide Home page is displayed
+2021-04-30 15:46:14,514  INFO [main] HomePage:158 - Browser Terminated
+2021-04-30 15:46:14,516  INFO [main] HomePage:159 - -----------------------------------------------
+2021-04-30 15:46:14,517  INFO [main] HomePage:161 - Closing

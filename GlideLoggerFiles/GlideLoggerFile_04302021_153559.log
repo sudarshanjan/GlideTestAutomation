@@ -1,0 +1,5 @@
+2021-04-30 15:36:03,526  INFO [TestNG-tests-1] ExtentReportListener:85 - The browser value is : Chrome
+2021-04-30 15:37:47,170  INFO [TestNG-tests-1] HomePage:52 - Glide Home page is displayed
+2021-04-30 15:37:48,118  INFO [TestNG-tests-1] HomePage:158 - Browser Terminated
+2021-04-30 15:37:48,119  INFO [TestNG-tests-1] HomePage:159 - -----------------------------------------------
+2021-04-30 15:37:48,119  INFO [TestNG-tests-1] HomePage:161 - Closing

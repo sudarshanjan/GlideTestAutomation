@@ -1,0 +1,4 @@
+2021-04-30 15:34:22,234  INFO [TestNG-tests-1] ExtentReportListener:85 - The browser value is : Chrome
+2021-04-30 15:35:21,569  INFO [TestNG-tests-1] HomePage:158 - Browser Terminated
+2021-04-30 15:35:21,571  INFO [TestNG-tests-1] HomePage:159 - -----------------------------------------------
+2021-04-30 15:35:21,572  INFO [TestNG-tests-1] HomePage:161 - Closing

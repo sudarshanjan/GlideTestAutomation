@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+    	<!-- report theme -->
+    	<!-- standard, dark -->
+    	<theme>Dark</theme>
+    
+		<!-- document encoding -->
+		<!-- defaults to UTF-8 -->
+		<encoding>UTF-8</encoding>
+		
+		<!-- protocol for script and stylesheets -->
+		<!-- defaults to https -->
+		<protocol>https</protocol>
+		
+        <!-- title of the document -->
+        <documentTitle>Glide App Automation Extent Report</documentTitle>
+        
+        <!-- report name - displayed at top-nav -->
+        <reportName>Glide App Automation Report</reportName>
+        
+        <!-- report headline - displayed at top-nav, after reportHeadline -->
+        <reportHeadline></reportHeadline>
+        
+        <!-- global date format override -->
+        <!-- defaults to yyyy-MM-dd -->
+        <dateFormat>yyyy-MM-dd</dateFormat>
+        
+        <!-- global time format override -->
+        <!-- defaults to HH:mm:ss -->
+        <timeFormat>HH:mm:ss</timeFormat>
+        
+        <!-- custom javascript -->
+        <scripts>
+            <![CDATA[
+                $(document).ready(function() {
+                 $('.brand-logo.blue.darken-3').css('display','None');    
+                });
+            ]]>
+        </scripts>
+        
+        <!-- custom styles -->
+        <styles>
+           <reportName>
+	<image id="image-zoom">
+		 <img src='https://quisitive-my.sharepoint.com/:i:/p/sudarshan_kondam/EWOgB3H3yY1LmeHvpFChFtIB8PtoHG0yQR4O_kWZeSwpzQ?e=s3C2wC' />
+	</image>
+     </reportName>
+        </styles>
+    </configuration>
+</extentreports>
